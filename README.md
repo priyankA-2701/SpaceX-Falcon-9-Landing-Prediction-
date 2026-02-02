@@ -52,7 +52,5 @@ predictive classification models.
 
 Evaluation used cross-validation, accuracy comparison, and confusion matrix analysis.
 
----
 
-## Repository Structure
 
